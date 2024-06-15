@@ -1,7 +1,5 @@
 Flask
-flask-smorest
 numpy
 opencv_python==4.5.5.64
 Pillow
-keras
 imutils
