@@ -1,5 +1,4 @@
 Flask
 numpy
 opencv_python
-string
 imutils
