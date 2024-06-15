@@ -2,11 +2,11 @@ import base64
 import cv2
 import numpy as np
 from flask import Flask, request, jsonify, render_template
-from keras.models import load_model
-from PIL import Image
-from io import BytesIO
-import string
-import imutils
+# from keras.models import load_model
+# from PIL import Image
+# from io import BytesIO
+# import string
+# import imutils
 
 app = Flask(__name__)
 
