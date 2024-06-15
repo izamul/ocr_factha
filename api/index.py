@@ -245,6 +245,3 @@ def process_image():
 @app.route('/')
 def index():
     return "hellow"
-
-if __name__ == "__main__":
-    app.run()
