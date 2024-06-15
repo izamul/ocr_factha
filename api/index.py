@@ -2,9 +2,8 @@ import cv2
 import numpy as np
 from flask import Flask
 from keras.models import load_model
-from io import BytesIO
 import string
-# import imutils
+import imutils
 
 app = Flask(__name__)
 
