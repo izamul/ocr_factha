@@ -1,0 +1,12 @@
+flask
+flask-smorest
+numpy
+opencv_python==4.5.5.64
+tensorflow
+Pillow
+keras
+imutils
+scikit-build
+cmake
+python-dotenv
+joblib
